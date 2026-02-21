@@ -31,6 +31,9 @@ Web application for **Halcón**, a construction material distributor. This syste
 | In Route | Order loaded and dispatched |
 | Delivered | Order delivered with photo evidence |
 
+## Work Methodology: Scrum (Agile)
+Scrum was chosen because the client's requirements came from an interview and will likely change as the project progresses. Scrum's short sprints (1–2 weeks) let the team deliver working features regularly, get client feedback, and adjust without starting over. Unlike Waterfall, it doesn't require locking all requirements upfront, and unlike Kanban, it has structured reviews that keep the client involved throughout the process.
+
 ## Tech Stack
 
 - **Frontend:** React.js + Tailwind CSS
